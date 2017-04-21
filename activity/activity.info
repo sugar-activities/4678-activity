@@ -1,0 +1,9 @@
+[Activity]
+name = JAMediaTerminal
+activity_version = 1
+bundle_id = org.laptop.JAMediaTerminal
+exec = sugar-activity JAMediaTerminal.Ventana
+icon = jamediaterminal
+mime_types =
+license = GPLv2+
+
